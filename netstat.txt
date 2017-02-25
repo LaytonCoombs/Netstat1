@@ -1,0 +1,121 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    10.46.88.66:50111      chi02legaldc01:msft-gc  ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:51668      fwdexcas03:59532       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:51673      fwdexcas02:59532       ESTABLISHED
+ [wbxcOIEx.exe]
+  TCP    10.46.88.66:51825      access429:https        ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:51890      access429:https        ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:51918      iq-in-f188:5228        ESTABLISHED
+ [chrome.exe]
+  TCP    10.46.88.66:52777      fwd01util01:59621      ESTABLISHED
+ [spoolsv.exe]
+  TCP    10.46.88.66:53801      dav01dc01:microsoft-ds  ESTABLISHED
+ Can not obtain ownership information
+  TCP    10.46.88.66:53911      access428:https        ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:53967      rsmsep:8014            TIME_WAIT
+  TCP    10.46.88.66:53989      fwdexcas03:59531       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:53995      fwdexmbx01:59533       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:53999      fwdexcas03:59531       ESTABLISHED
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:54000      fwdsccm01:10123        ESTABLISHED
+ [CcmExec.exe]
+  TCP    10.46.88.66:54038      10.46.47.17:https      TIME_WAIT
+  TCP    10.46.88.66:60520      dav01dc01:49155        ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:60590      fwduccuc01:8443        CLOSE_WAIT
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:60596      fwd02ucpres01:8443     CLOSE_WAIT
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:60612      fwdprod:microsoft-ds   ESTABLISHED
+ Can not obtain ownership information
+  TCP    10.46.88.66:60623      fwd02ucpres01:5222     ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:60720      fwducsub01:5060        ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:60721      fwd02ucsub02:5060      ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:63926      fwduccuc01:7080        ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:50188         CLOSE_WAIT
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:50340         CLOSE_WAIT
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:51438         ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:51824         ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:51889         ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:52534         CLOSE_WAIT
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:53909         ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         R90JYPJ8:54020         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54022         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54026         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54041         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54043         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54045         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54049         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54051         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54053         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54055         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:54057         TIME_WAIT
+  TCP    127.0.0.1:5001         R90JYPJ8:62048         CLOSE_WAIT
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5003         R90JYPJ8:60644         ESTABLISHED
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:8001         R90JYPJ8:60664         ESTABLISHED
+ [SecomSDK.exe]
+  TCP    127.0.0.1:50188        R90JYPJ8:5001          FIN_WAIT_2
+ [System]
+  TCP    127.0.0.1:50340        R90JYPJ8:5001          FIN_WAIT_2
+ [System]
+  TCP    127.0.0.1:51438        R90JYPJ8:5001          ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:51738        R90JYPJ8:51739         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:51739        R90JYPJ8:51738         ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:51824        R90JYPJ8:5001          ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:51889        R90JYPJ8:5001          ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:52534        R90JYPJ8:5001          FIN_WAIT_2
+ [firefox.exe]
+  TCP    127.0.0.1:53909        R90JYPJ8:5001          ESTABLISHED
+ [firefox.exe]
+  TCP    127.0.0.1:54014        R90JYPJ8:5001          TIME_WAIT
+  TCP    127.0.0.1:54047        R90JYPJ8:5001          TIME_WAIT
+  TCP    127.0.0.1:60588        R90JYPJ8:60589         ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:60589        R90JYPJ8:60588         ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:60644        R90JYPJ8:5003          ESTABLISHED
+ [vpnui.exe]
+  TCP    127.0.0.1:60646        R90JYPJ8:62522         ESTABLISHED
+ [vpnui.exe]
+  TCP    127.0.0.1:60664        R90JYPJ8:8001          ESTABLISHED
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:62048        R90JYPJ8:5001          FIN_WAIT_2
+ [System]
+  TCP    127.0.0.1:62522        R90JYPJ8:60646         ESTABLISHED
+ [vpnagent.exe]
+  TCP    [::1]:4105             R90JYPJ8:49157         ESTABLISHED
+ [cam.exe]
+  TCP    [::1]:4105             R90JYPJ8:60209         ESTABLISHED
+ [cam.exe]
+  TCP    [::1]:49157            R90JYPJ8:4105          ESTABLISHED
+ [rtaAgent.exe]
+  TCP    [::1]:60209            R90JYPJ8:4105          ESTABLISHED
+ [rtaAgent.exe]
