@@ -1,0 +1,345 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       832
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:2701           0.0.0.0:0              LISTENING       2740
+ [CmRcService.exe]
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1668
+  CryptSvc
+ [svchost.exe]
+  TCP    0.0.0.0:4105           0.0.0.0:0              LISTENING       2196
+ [cam.exe]
+  TCP    0.0.0.0:8085           0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:47001          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       604
+ [wininit.exe]
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       316
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       464
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       1952
+ [spoolsv.exe]
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING       684
+ [lsass.exe]
+  TCP    0.0.0.0:49159          0.0.0.0:0              LISTENING       684
+ [lsass.exe]
+  TCP    0.0.0.0:50123          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:53704          0.0.0.0:0              LISTENING       672
+ Can not obtain ownership information
+  TCP    0.0.0.0:53727          0.0.0.0:0              LISTENING       3016
+ [ccSvcHst.exe]
+  TCP    0.0.0.0:53728          0.0.0.0:0              LISTENING       3016
+ [ccSvcHst.exe]
+  TCP    0.0.0.0:53731          0.0.0.0:0              LISTENING       652
+  PolicyAgent
+ [svchost.exe]
+  TCP    0.0.0.0:64477          0.0.0.0:0              LISTENING       6364
+ [SprinterAgent.exe]
+  TCP    10.46.88.66:139        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    10.46.88.66:50338      10.10.50.100:7080      ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:50351      10.20.50.40:8443       CLOSE_WAIT      1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:50365      10.46.72.17:445        ESTABLISHED     4
+ Can not obtain ownership information
+  TCP    10.46.88.66:50369      10.10.50.30:5060       ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:50370      10.20.50.30:5060       ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:50420      10.20.50.40:5222       ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:50498      10.46.0.133:10123      ESTABLISHED     8936
+ [CcmExec.exe]
+  TCP    10.46.88.66:56969      108.171.131.157:443    ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:58105      108.171.131.156:443    ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:58903      66.98.100.52:8014      ESTABLISHED     3016
+ [ccSvcHst.exe]
+  TCP    10.46.88.66:61913      10.46.6.131:59533      ESTABLISHED     9192
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:61942      10.46.6.84:59531       ESTABLISHED     9192
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:61943      10.46.6.84:59531       ESTABLISHED     9192
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:61947      10.46.6.84:59532       ESTABLISHED     9192
+ [OUTLOOK.EXE]
+  TCP    10.46.88.66:62372      10.47.118.16:3268      ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    10.46.88.66:62390      108.171.131.156:443    ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    10.46.88.66:62391      10.46.6.84:443         TIME_WAIT       0
+  TCP    10.46.88.66:62394      10.15.0.14:443         TIME_WAIT       0
+  TCP    10.46.88.66:62395      10.46.10.15:443        TIME_WAIT       0
+  TCP    10.46.88.66:62398      66.98.100.163:443      TIME_WAIT       0
+  TCP    10.46.88.66:62399      66.98.100.163:443      TIME_WAIT       0
+  TCP    10.46.88.66:62404      10.45.180.27:443       TIME_WAIT       0
+  TCP    10.46.88.66:62405      10.45.180.27:443       TIME_WAIT       0
+  TCP    10.46.88.66:62406      66.98.100.164:443      TIME_WAIT       0
+  TCP    10.46.88.66:62407      66.98.100.163:443      TIME_WAIT       0
+  TCP    10.46.88.66:62408      66.98.100.163:443      TIME_WAIT       0
+  TCP    10.46.88.66:62409      66.98.100.164:443      TIME_WAIT       0
+  TCP    10.46.88.66:62435      10.46.72.16:445        ESTABLISHED     4
+ Can not obtain ownership information
+  TCP    127.0.0.1:5001         0.0.0.0:0              LISTENING       6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         127.0.0.1:56968        ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         127.0.0.1:58103        ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         127.0.0.1:58828        CLOSE_WAIT      6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         127.0.0.1:58877        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62379        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62383        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62389        ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5001         127.0.0.1:62410        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62416        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62429        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62433        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62436        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62438        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62440        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62444        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62446        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62448        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62450        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62452        TIME_WAIT       0
+  TCP    127.0.0.1:5001         127.0.0.1:62454        TIME_WAIT       0
+  TCP    127.0.0.1:5003         0.0.0.0:0              LISTENING       6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:5003         127.0.0.1:65307        ESTABLISHED     6716
+ [acwebsecagent.exe]
+  TCP    127.0.0.1:8001         0.0.0.0:0              LISTENING       9308
+ [SecomSDK.exe]
+  TCP    127.0.0.1:8001         127.0.0.1:60406        ESTABLISHED     9308
+ [SecomSDK.exe]
+  TCP    127.0.0.1:50395        127.0.0.1:50396        ESTABLISHED     3088
+ [firefox.exe]
+  TCP    127.0.0.1:50396        127.0.0.1:50395        ESTABLISHED     3088
+ [firefox.exe]
+  TCP    127.0.0.1:56968        127.0.0.1:5001         ESTABLISHED     3088
+ [firefox.exe]
+  TCP    127.0.0.1:57134        0.0.0.0:0              LISTENING       5968
+ [SCNotification.exe]
+  TCP    127.0.0.1:58103        127.0.0.1:5001         ESTABLISHED     3088
+ [firefox.exe]
+  TCP    127.0.0.1:58685        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:58687        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:58828        127.0.0.1:5001         FIN_WAIT_2      3088
+ [firefox.exe]
+  TCP    127.0.0.1:60406        127.0.0.1:8001         ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:62374        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62376        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62385        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62386        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62387        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62389        127.0.0.1:5001         ESTABLISHED     3088
+ [firefox.exe]
+  TCP    127.0.0.1:62393        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62402        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62412        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62413        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62414        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62415        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62418        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62419        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62420        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62421        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62422        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62426        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62431        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62432        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62442        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62456        127.0.0.1:5001         TIME_WAIT       0
+  TCP    127.0.0.1:62522        0.0.0.0:0              LISTENING       1608
+ [vpnagent.exe]
+  TCP    127.0.0.1:62522        127.0.0.1:65310        ESTABLISHED     1608
+ [vpnagent.exe]
+  TCP    127.0.0.1:65299        127.0.0.1:65300        ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:65300        127.0.0.1:65299        ESTABLISHED     1480
+ [CiscoJabber.exe]
+  TCP    127.0.0.1:65307        127.0.0.1:5003         ESTABLISHED     7740
+ [vpnui.exe]
+  TCP    127.0.0.1:65310        127.0.0.1:62522        ESTABLISHED     7740
+ [vpnui.exe]
+  TCP    [::]:135               [::]:0                 LISTENING       832
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:2701              [::]:0                 LISTENING       2740
+ [CmRcService.exe]
+  TCP    [::]:3389              [::]:0                 LISTENING       1668
+  CryptSvc
+ [svchost.exe]
+  TCP    [::]:4105              [::]:0                 LISTENING       2196
+ [cam.exe]
+  TCP    [::]:8085              [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:47001             [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:49152             [::]:0                 LISTENING       604
+ [wininit.exe]
+  TCP    [::]:49153             [::]:0                 LISTENING       316
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49154             [::]:0                 LISTENING       464
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49155             [::]:0                 LISTENING       1952
+ [spoolsv.exe]
+  TCP    [::]:49156             [::]:0                 LISTENING       684
+ [lsass.exe]
+  TCP    [::]:49159             [::]:0                 LISTENING       684
+ [lsass.exe]
+  TCP    [::]:50123             [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:53704             [::]:0                 LISTENING       672
+ Can not obtain ownership information
+  TCP    [::]:53728             [::]:0                 LISTENING       3016
+ [ccSvcHst.exe]
+  TCP    [::]:53731             [::]:0                 LISTENING       652
+  PolicyAgent
+ [svchost.exe]
+  TCP    [::]:64477             [::]:0                 LISTENING       6364
+ [SprinterAgent.exe]
+  TCP    [::1]:4105             [::1]:49157            ESTABLISHED     2196
+ [cam.exe]
+  TCP    [::1]:4105             [::1]:64358            ESTABLISHED     2196
+ [cam.exe]
+  TCP    [::1]:5001             [::]:0                 LISTENING       6716
+ [acwebsecagent.exe]
+  TCP    [::1]:49157            [::1]:4105             ESTABLISHED     2312
+ [rtaAgent.exe]
+  TCP    [::1]:64358            [::1]:4105             ESTABLISHED     2312
+ [rtaAgent.exe]
+  UDP    0.0.0.0:123            *:*                                    812
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:500            *:*                                    464
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3389           *:*                                    1668
+  CryptSvc
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:4104           *:*                                    2196
+ [cam.exe]
+  UDP    0.0.0.0:4500           *:*                                    464
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5060           *:*                                    1480
+ [CiscoJabber.exe]
+  UDP    0.0.0.0:5355           *:*                                    1668
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:54054          *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:65261          *:*                                    4
+ Can not obtain ownership information
+  UDP    0.0.0.0:65262          *:*                                    4
+ Can not obtain ownership information
+  UDP    10.46.88.66:137        *:*                                    4
+ Can not obtain ownership information
+  UDP    10.46.88.66:138        *:*                                    4
+ Can not obtain ownership information
+  UDP    10.46.88.66:1900       *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    10.46.88.66:53306      *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:49399        *:*                                    1480
+ [CiscoJabber.exe]
+  UDP    127.0.0.1:49400        *:*                                    1480
+ [CiscoJabber.exe]
+  UDP    127.0.0.1:53307        *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:53514        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:53968        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:56097        *:*                                    1668
+  NlaSvc
+ [svchost.exe]
+  UDP    127.0.0.1:56246        *:*                                    684
+ [lsass.exe]
+  UDP    127.0.0.1:56625        *:*                                    5764
+ [Explorer.EXE]
+  UDP    127.0.0.1:61287        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:62340        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:63635        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:63828        *:*                                    9192
+ [OUTLOOK.EXE]
+  UDP    127.0.0.1:64027        *:*                                    8936
+ [CcmExec.exe]
+  UDP    127.0.0.1:65263        *:*                                    3952
+ [wmiprvse.exe]
+  UDP    127.0.0.1:65430        *:*                                    1480
+ [CiscoJabber.exe]
+  UDP    [::]:123               *:*                                    812
+  W32Time
+ [svchost.exe]
+  UDP    [::]:500               *:*                                    464
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3389              *:*                                    1668
+  CryptSvc
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:4104              *:*                                    2196
+ [cam.exe]
+  UDP    [::]:4500              *:*                                    464
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    1668
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:54055             *:*                                    812
+  EventSystem
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:53305            *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::1d61:ce96:c2ee:3d2c%4]:1900  *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::1d61:ce96:c2ee:3d2c%4]:53304  *:*                                    2004
+  SSDPSRV
+ [svchost.exe]
